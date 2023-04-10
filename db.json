@@ -1,7 +1,64 @@
 {
-    "adminAuth":{
-        "id":1,
-        "email":"admin@gmail.com",
-        "password":"masai"
+  "adminAuth": {
+    "id": 1,
+    "email": "admin@gmail.com",
+    "password": "masai"
+  },
+  "allbooks": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": "5299",
+      "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "1000",
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "3000",
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": "5299",
+      "borrowed": false
+    },
+    {
+      "id": 6,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "3000",
+      "borrowed": false
     }
+  ]
 }
